@@ -1,0 +1,9 @@
+.myHead {
+    color: #501c1c;
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 3px 3px 3px rgba(0,0,0,0.75);
+    text-align: center;
+    border-bottom: #501c1c 1px solid;
+    margin: 0;
+}
